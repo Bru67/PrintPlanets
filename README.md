@@ -25,10 +25,12 @@ Quanto aos dados:
 Ao final da implementação reflita:
 
 1. Sua solução ficou com muito código duplicado?
-R: A estrutura inicial da função print e de espaçamento sim, além do modelo das funções de validação e formatação porém houve uma adaptação para garantir a formatação desejada dos resultados
+
+**R:** A estrutura inicial da função print e de espaçamento sim, além do modelo das funções de validação e formatação porém houve uma adaptação para garantir a formatação desejada dos resultados
 
 2. O que aconteceria se uma terceira classe tivesse que ser adicionada?
-R: Provavelmente receberia a estrutura inicial e o formato bem parecidos, alterando conforme o desejo da próxima classe.
+
+**R:** Provavelmente receberia sua estrutura e o formato bem parecidos, alterando conforme o desejo da próxima classe.
 
 ---
 
